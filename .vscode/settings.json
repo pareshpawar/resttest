@@ -1,3 +1,7 @@
 {
-    "python.pythonPath": "C:\\Users\\par20\\Anaconda3\\envs\\dj\\python.exe"
+    "python.pythonPath": "C:\\Users\\par20\\Anaconda3\\envs\\dj\\python.exe",
+    "editor.rulers": [79],
+    "files.insertFinalNewline":true,
+    "python.linting.flake8Enabled": true,
+    "python.autoComplete.addBrackets": true,
 }
